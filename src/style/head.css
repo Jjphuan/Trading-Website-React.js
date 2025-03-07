@@ -1,0 +1,13 @@
+.btn-grey{
+    border-radius: 10px;
+    border: 1px solid #D2D2D2;
+}
+
+.btn-pd{
+    padding: 0.18rem 2.2rem;
+}
+
+.btn-bg-red{
+    background-color: #FF1A50;
+    color: #ffffff;
+}

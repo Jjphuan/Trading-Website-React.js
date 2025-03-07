@@ -1,0 +1,72 @@
+.bg-img{
+    height: 50%;
+    width: 100%;
+}
+
+.bank-img{
+    width: 90%;
+}
+
+.service-icon{
+    height: 25px;
+}
+
+.ani-img1{
+    width: 40%;
+    height: 100%;
+}
+
+.ani-img2{
+    width: 21%;
+    height: 40%;
+}
+
+.service-border{
+    position: absolute;
+    border:1px solid #D2D2D2;
+    top: -15%;
+    left: 10%;
+}
+
+.serviece-sub-border1{
+    position: absolute;
+    border:1px solid #D2D2D2;
+    width: 35%;
+    top: -5%;
+    right: 7%;
+}
+
+.serviece-sub-border2{
+    position: absolute;
+    border:1px solid #D2D2D2;
+    width: 35%;
+    top: 60%;
+    right: 12%;
+}
+
+.search-side{
+    width: 40%;
+}
+
+.table-side{
+    width: 55%;
+}
+
+.rule{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.phone-side{
+    position:relative;
+    left:-17%;
+    width:98.9005vw;
+    height:22rem;
+    overflow: hidden;
+}
+
+.phone-content{
+    position: absolute;
+    top: 0;
+    right: 38%;
+}

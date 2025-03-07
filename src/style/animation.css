@@ -1,0 +1,20 @@
+.mountain{
+    position: absolute;
+    bottom: 0%;
+}
+
+.santa{
+    position: absolute;
+    top:15%;
+    left: 40%;
+    animation: fly 6s linear;
+}
+
+@keyframes fly {
+    0% {
+        transform: rotateZ(60deg) translate(110vw, -30vh);
+    }
+    100% {
+        transform: rotateZ(0deg) translate(0%,0%);
+    }
+  }

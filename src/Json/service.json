@@ -1,0 +1,48 @@
+{
+    "service":[
+        
+            {
+                "name":  "Forex",
+                "content":"Trade over 100 currency pairs, including the majors, minors and exotics, with ultra-low spreads and fast execution.",
+                "img_path": "forex.png"
+
+            },
+            {
+                "name":  "Precious Metals",
+                "content":"Speculate on the price movements of Gold and Silver against the US Dollar and diversify your trading portfolio.",
+                "img_path": "gold.png"
+
+            },
+            {
+                "name":  "Stocks",
+                "content":"Get access to major international stocks (Apple, Google, Tesla) with no commissions or requotes and no hidden mark-ups.",
+                "img_path": "stock.png"
+
+            },
+            {
+                "name":  "Energies",
+                "content":"Trade CFDs on spot energies such as Brent oil and natural gas with no commissions or requotes and no hidden mark-ups.",
+                "img_path": "energy.png"
+
+            },
+            {
+                "name":  "Stock Indices",
+                "content":"Get access to major international stock indices (S&P 500, Nasdaq 100) with no commissions or requotes and no hidden mark-ups.",
+                "img_path": "indices.png"
+
+            },
+            {
+                "name":  "Cryptocurrencies",
+                "content":"Trade the new era of currencies such as Bitcoin, Etherium and Litecoin with ultra-low spreads and fast execution.",
+                "img_path": "crypto.png"
+
+            },
+            {
+                "name":  "Commodities",
+                "content":"Trade over a vast variety of commodities (Cotton, Cocoa, Wheat) with ultra-low spreads and fast execution.",
+                "img_path": "wheat.png"
+
+            }
+        
+    ]
+}

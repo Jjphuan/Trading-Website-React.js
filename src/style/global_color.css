@@ -1,0 +1,27 @@
+.ft-black{
+    color: #000000;
+}
+
+.ft-dgreg{
+    color:#3F3F3F
+}
+
+.ft-grey{
+    color: #D2D2D2;
+}
+
+.ft-white{
+    color: #ffffff;
+}
+
+.ft-red{
+    color:#FF1A50;
+}
+
+.ft-green{
+    color:#1DB954;
+}
+
+.border-grey{
+    border: 1px solid #D2D2D2;
+}

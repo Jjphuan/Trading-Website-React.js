@@ -1,0 +1,65 @@
+*{
+    font-family: Poppins;
+    padding: 0;
+    margin: 0;
+}
+
+.head-title{
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.head-tagline{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.H1{
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.H2{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.H3B{
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.H3S{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.H3M{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.H4R{
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.PB{
+    font-weight: 700;
+    font-size: 13px;
+}
+
+.PM{
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.PR{
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.navbar-menu{
+    font-weight: 500;
+    font-size: 14px;
+}
