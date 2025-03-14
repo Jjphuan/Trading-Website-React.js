@@ -1,6 +1,7 @@
 .mountain{
     position: absolute;
-    bottom: 0%;
+    bottom: 0%; 
+    animation: flashing 5s linear infinite;
 }
 
 .santa{
@@ -12,9 +13,28 @@
 
 @keyframes fly {
     0% {
-        transform: rotateZ(60deg) translate(110vw, -30vh);
+        transform: rotateZ(35deg) translate(110vw, -30vh);
     }
     100% {
         transform: rotateZ(0deg) translate(0%,0%);
+
     }
-  }
+}
+
+@keyframes flashing {
+    0%{
+        filter: drop-shadow(0px -6px 8px #13e8de);
+    }
+    25%{
+        filter: drop-shadow(0px -1px 8px #a0d7d5);
+    }
+    50%{
+        filter: drop-shadow(none);
+    }
+    60%{
+        filter: drop-shadow(0px -1px 8px #a0d7d5);
+    }
+    100%{
+        filter: drop-shadow(0px -6px 8px #13e8de);
+    }
+}

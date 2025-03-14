@@ -27,9 +27,9 @@ export default function ThirdSection() {
         };
 
         fetchData();
-        const interval = setInterval(fetchData, 1000);
+        // const interval = setInterval(fetchData, 1000);
 
-        return () => clearInterval(interval);
+        // return () => clearInterval(interval);
     }, []);
 
     const columns = [
@@ -62,7 +62,7 @@ export default function ThirdSection() {
                     <p className='H1'>Trade Over 5600 Global Markets.</p>
                     <p className='H3B'>We Offer Two Levels Of Pricing Depending On Your Account Tier</p>
                 </div>
-                <div className='pt-3 pb-5' style={{position:'relative'}}>
+                {/* <div className='pt-3 pb-5' style={{position:'relative'}}>
                     <input
                         className='py-1 px-2'
                         style={{fontSize:"12px", width:'55%'}}
@@ -70,7 +70,7 @@ export default function ThirdSection() {
                         placeholder='Search Market'
                     />
                     <SearchIcon style={{position:'absolute',left:'48%',top:"20%"}}/>
-                </div>
+                </div> */}
                 <div className='rule pt-4' >
                     <div>
                         <p className='H3B' style={{margin:0}}>$100</p>
