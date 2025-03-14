@@ -1,7 +1,7 @@
 .mountain{
     position: absolute;
     bottom: 0%; 
-    animation: flashing 5s linear infinite;
+    animation: flashing 4s linear infinite;
 }
 
 .santa{
