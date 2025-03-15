@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Header from './component/header'
+import Header from './component/Header'
 import Advertise from './component/Advertise'
 import Content from './Content'
 import './style/global_font.css'
